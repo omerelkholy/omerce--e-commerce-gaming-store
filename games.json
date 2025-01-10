@@ -3,84 +3,84 @@
         "id": 1,
         "name": "Atomic Heart",
         "price": 60,
-        "image": "./images/atomicheart.JPG",
+        "image": "/repository/images/atomicheart.JPG",
         "lastupdated": "Last updated 3 months ago"
     },
     {
         "id": 2,
         "name": "The Witcher 3: Wild Hunt",
         "price": 30,
-        "image": "./images/witcher.JPG",
+        "image": "/repository/images/witcher.JPG",
         "lastupdated": "Last updated 2 days ago"
     },
     {
         "id": 3,
         "name": "UnCharted: Legacy of Thieves",
         "price": 45,
-        "image": "./images/uncharted.JPG",
+        "image": "/repository/images/uncharted.JPG",
         "lastupdated": "Last updated 1 day ago"
     },
     {
         "id": 4,
         "name": "Call of Duty: Modern Warfare",
         "price": 60,
-        "image": "./images/codmw.JPG",
+        "image": "/repository/images/codmw.JPG",
         "lastupdated": "Last updated 20 days ago"
     },
     {
         "id": 5,
         "name": "Devil May Cry",
         "price": 15,
-        "image": "./images/dmc.JPG",
+        "image": "/repository/images/dmc.JPG",
         "lastupdated": "Last updated 4 months ago"
     },
     {
         "id": 6,
         "name": "Dead Island 2",
         "price": 60,
-        "image": "./images/deadisland.JPG",
+        "image": "/repository/images/deadisland.JPG",
         "lastupdated": "Last updated 3 months ago"
     },
     {
         "id": 7,
         "name": "Dead Space",
         "price": 9.99,
-        "image": "./images/deadspace.JPG",
+        "image": "/repository/images/deadspace.JPG",
         "lastupdated": "Last updated 3 hours ago"
     },
     {
         "id": 8,
         "name": "Spyro - Reignited Trilogy",
         "price": 5,
-        "image": "./images/spyro.JPG",
+        "image": "/repository/images/spyro.JPG",
         "lastupdated": "Last updated 4 years ago"
     },
     {
         "id": 9,
         "name": "Monster Hunter Rise",
         "price": 45,
-        "image": "./images/mhw1.JPG",
+        "image": "/repository/images/mhw1.JPG",
         "lastupdated": "Last updated 2 years ago"
     },
     {
         "id": 10,
         "name": "Transiruby",
         "price": 15,
-        "image": "./images/transruby.JPG",
+        "image": "/repository/images/transruby.JPG",
         "lastupdated": "Last updated 8 months ago"
     },
     {
         "id": 11,
         "name": "Hades",
         "price": 20,
-        "image": "./images/hades.JPG",
+        "image": "/repository/images/hades.JPG",
         "lastupdated": "Last updated 1 year ago"
     },
     {
         "id": 12,
         "name": "Terraria",
         "price": 2.5,
-        "image": "./images/terraria.JPG",
+        "image": "/repository/images/terraria.JPG",
         "lastupdated": "Last updated 9 years ago"
     }
 ]
