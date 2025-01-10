@@ -1,0 +1,87 @@
+[
+    {
+        "id": 1,
+        "name": "Atomic Heart",
+        "price": 60,
+        "image": "/images/atomic heart.jpg",
+        "lastupdated": "Last updated 3 months ago"
+    },
+    {
+        "id": 2,
+        "name": "The Witcher 3: Wild Hunt",
+        "price": 30,
+        "image": "/images/witcher.jpg",
+        "lastupdated": "Last updated 2 days ago"
+    },
+    {
+        "id": 3,
+        "name": "UnCharted: Legacy of Thieves",
+        "price": 45,
+        "image": "/images/uncharted.jpg",
+        "lastupdated": "Last updated 1 day ago"
+    },
+    {
+        "id": 4,
+        "name": "Call of Duty: Modern Warfare",
+        "price": 60,
+        "image": "/images/codmw.jpg",
+        "lastupdated": "Last updated 20 days ago"
+    },
+    {
+        "id": 5,
+        "name": "Devil May Cry",
+        "price": 15,
+        "image": "/images/dmc.jpg",
+        "lastupdated": "Last updated 4 months ago"
+    },
+    {
+        "id": 6,
+        "name": "Dead Island 2",
+        "price": 60,
+        "image": "/images/deadisland.jpg",
+        "lastupdated": "Last updated 3 months ago"
+    },
+    {
+        "id": 7,
+        "name": "Dead Space",
+        "price": 9.99,
+        "image": "/images/dead space.jpg",
+        "lastupdated": "Last updated 3 hours ago"
+    },
+    {
+        "id": 8,
+        "name": "Spyro - Reignited Trilogy",
+        "price": 5,
+        "image": "/images/spyro.jpg",
+        "lastupdated": "Last updated 4 years ago"
+    },
+    {
+        "id": 9,
+        "name": "Monster Hunter Rise",
+        "price": 45,
+        "image": "/images/mhw1.jpg",
+        "lastupdated": "Last updated 2 years ago"
+    },
+    {
+        "id": 10,
+        "name": "Transiruby",
+        "price": 15,
+        "image": "/images/transruby.jpg",
+        "lastupdated": "Last updated 8 months ago"
+    },
+    {
+        "id": 11,
+        "name": "Hades",
+        "price": 20,
+        "image": "/images/hades.jpg",
+        "lastupdated": "Last updated 1 year ago"
+    },
+    {
+        "id": 12,
+        "name": "Terraria",
+        "price": 2.5,
+        "image": "/images/terraria.jpg",
+        "lastupdated": "Last updated 9 years ago"
+    }
+    
+]
